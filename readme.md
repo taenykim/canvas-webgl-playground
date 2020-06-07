@@ -16,4 +16,4 @@
 
 ## Solar System
 
-![](./images/solar-system.png)
+<img width=200 src='./images/solar-system.png'/>
