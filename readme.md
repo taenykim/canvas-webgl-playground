@@ -13,3 +13,7 @@
 
 - Library, Dependency x
 - 최대한 모듈화 (재사용성)
+
+## Solar System
+
+![](./images/solar-system.png)

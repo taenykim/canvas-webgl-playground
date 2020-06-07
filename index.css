@@ -8,3 +8,7 @@
 #description {
   margin: 20px 0px 20px 0px;
 }
+
+#canvas {
+  border: 1px solid black;
+}
