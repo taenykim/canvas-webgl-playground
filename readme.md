@@ -21,3 +21,9 @@
 ## Hover
 
 <img width=200 src='./images/hover.png'/>
+
+## Color Picker
+
+<img width=200 src='./images/color-picker.png'/>
+
+- 이미지 CORS 문제는 `server.js`, `crossOrigin : "Anonymous"`로 해결
