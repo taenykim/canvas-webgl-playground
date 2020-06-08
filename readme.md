@@ -34,3 +34,6 @@
 ## Filter
 
 <img width=200 src='./images/filter.png'/>
+
+1. 전체 캔버스 filtering
+2. 선택적 부분 filtering
