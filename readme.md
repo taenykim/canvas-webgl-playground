@@ -30,3 +30,7 @@
 
 1. `File://` -> `server.js`
 2. `crossOrigin : "Anonymous"`
+
+## Filter
+
+<img width=200 src='./images/filter.png'/>
