@@ -26,4 +26,7 @@
 
 <img width=200 src='./images/color-picker.png'/>
 
-- 이미지 CORS 문제는 `server.js`, `crossOrigin : "Anonymous"`로 해결
+이미지 CORS 문제 해결
+
+1. `File://` -> `server.js`
+2. `crossOrigin : "Anonymous"`
