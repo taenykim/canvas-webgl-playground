@@ -4,10 +4,13 @@
 
 ## Details
 
-- canvas 렌더링연습
+- canvas 렌더링연습 ✅
 - webgl 렌더링연습
-- 이미지필터, pixelation 등 영상처리
-- 좌표값 계산 + 애니메이션 등 인터랙션
+- 영상처리(filter, pixelation) ✅
+- 2D 애니메이션 ✅
+- 3D 애니메이션
+- 2D 인터랙션 ✅
+- 3D 인터랙션
 
 ## Condition
 
@@ -35,9 +38,12 @@
 
 <img width=200 src='./images/filter.png'/>
 
+1. 전체 캔버스 filtering ✅
+2. 선택적 부분 filtering
+
 ## Cube Rotation
 
-<img width=200 src='./images/filter.png'/>
+<img width=200 src='./images/cube-rotation.png'/>
 
 1. vertices + drawing + animation
 2. color
