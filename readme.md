@@ -4,7 +4,8 @@
 
 ## Memo
 
-- vsCode Prettier 속성을 바꿔줘야겠다. vertices array들이 일렬로 저장되니 가독성이 매우 떨어짐.
+- vsCode Prettier 속성을 바꿔줘야겠다. vertices array들이 일렬로 저장되니 가독성이 매우 떨어짐. ✅
+> 배열 column단위로 잘라주는 속성이 없는 듯하다..! 그래서 2차원이상 배열들은 // prettier-ignore를 붙여주었다.
 
 ## Details
 
