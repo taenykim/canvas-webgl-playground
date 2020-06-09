@@ -53,3 +53,10 @@
 1. vertices + drawing + animation
 2. color
 3. OpenGL 참고
+
+## Interactive Cube
+
+<img width=200 src='./images/interactive-cube.png'/>
+
+1. [Matrix math for the web | MDN](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Matrix_math_for_the_web)
+2. Mouse이벤트 + 좌표계산 -> rotate() -> animate()
