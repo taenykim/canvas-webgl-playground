@@ -5,10 +5,10 @@
 ## Details
 
 - canvas 렌더링연습 ✅
-- webgl 렌더링연습
+- webgl 렌더링연습 ✅
 - 영상처리(filter, pixelation) ✅
 - 2D 애니메이션 ✅
-- 3D 애니메이션
+- 3D 애니메이션 ✅
 - 2D 인터랙션 ✅
 - 3D 인터랙션
 
