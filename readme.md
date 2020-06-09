@@ -8,7 +8,7 @@
   > 배열 column단위로 잘라주는 속성이 없는 듯하다..! 그래서 2차원이상 배열들은 // prettier-ignore를 붙여주었다.
 - 수학공부를 해야겠다.
 - 예제코드들을 읽어보고 이해해보는 방법으로 진행했다.
-- webGL 오픈소스 라이브러리(pixi.js, three.js)도 한번 써보자!
+- webGL은 오픈소스 라이브러리(pixi.js, three.js) 체험 후 다시 공부해보기.
 
 ## Details
 
