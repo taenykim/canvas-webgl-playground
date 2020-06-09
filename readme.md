@@ -2,6 +2,10 @@
 
 연습목표기간 : 6/7 - 6/10 (4일)
 
+## Memo
+
+- vsCode Prettier 속성을 바꿔줘야겠다. vertices array들이 일렬로 저장되니 가독성이 매우 떨어짐.
+
 ## Details
 
 - canvas 렌더링연습 ✅
