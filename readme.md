@@ -22,7 +22,7 @@
 
 ## Solar System
 
-<img width=200 src='./images/solar-system.png'/>
+![]('./images/solar-system.png)
 
 ## Hover
 
